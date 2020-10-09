@@ -1,5 +1,7 @@
 # Puzzle game
 
+[Play Game](https://fordalex.github.io/puzzle_game/)
+
 This was created to practice getting the user to interact with the canvas.
 
 ## UX
