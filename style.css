@@ -1,0 +1,26 @@
+.circle-button {
+    border-radius: 50%;
+    border: solid black 1px;
+    height: 50px;
+    width: 50px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: yellowgreen;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.white {
+    background-color: white;
+}
+
+.blue {
+    background-color: blue;
+}
